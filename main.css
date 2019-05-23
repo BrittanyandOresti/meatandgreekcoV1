@@ -1,0 +1,27 @@
+html, body{
+ margin: 0;
+ padding: 0;
+}
+
+img{
+ width: 25vw;
+ height: 35vh;
+ padding-left: 3vw;
+}
+#E{
+ width: 40vw;
+ height: 45vh;
+ padding: 0;
+
+
+}
+ h1,h3{
+  text-align: center;
+  padding: 0;
+
+ }
+ #octo{
+  width: 40vw;
+  height: 45vh;
+  padding-left: 28vw;
+ }
